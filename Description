@@ -1,0 +1,30 @@
+📊 E-Commerce Sales Analysis Dashboard (Excel)
+This project is a dynamic and interactive sales dashboard built using Microsoft Excel. It provides an in-depth analysis of e-commerce performance using charts, KPIs, and slicers.
+
+🔍 Key Features
+Total Sales, Profit, Orders, and Quantity with Year-over-Year (YoY) Growth tracking
+
+Profit Margin Analysis with trend line and YoY comparison
+
+Sales and Profit Trend (Monthly) using bar charts
+
+Category-wise Sales & Profit breakdown
+
+Top 10 Sub-Categories by Sales
+
+Sales Distribution by State (US map)
+
+Interactive Filters for Year, Region, and Segment using slicers
+
+Clean and modern UI with focus on readability and storytelling
+
+🛠 Tools & Techniques Used
+Microsoft Excel 
+
+Pivot Tables and Pivot Charts
+
+Slicers for dynamic filtering
+
+Conditional Formatting for KPI highlights
+
+Custom Data Labels and Design Elements
